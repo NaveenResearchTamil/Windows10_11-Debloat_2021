@@ -5,12 +5,9 @@ This script is a fork of the culmination of many scripts and gists from github w
 - Applicaiton Install Wizard has been hidden
 - Fully Focused towards optimization and tuning
 
-
 ## Available Features
-- One command to run
-- Full GUI implementation
+- Full GUI
 - Winget install
-- Install popular programs with one click
 - O&O Shutup 10 CFG and Run
 - Dark/Light mode
 - Semi-configurable
@@ -18,8 +15,8 @@ This script is a fork of the culmination of many scripts and gists from github w
 ## How to Run
 
 ```
-Open the downloaded code, Right click "win10debloat.ps1" and choose "Run With Powershell"
+General Use: Open the downloaded code, Right click "win10debloat.ps1" and choose "Run With Powershell"
 For Gamers: Goto "Gaming Focus" folder and run the win10debloatandgamingtweaks.ps1 and right click to choose "Run With Powershell"
 ```
 
-Forked From Chris Titus Tech
+Forked From Chris Titus Tech & DaddyMadu
