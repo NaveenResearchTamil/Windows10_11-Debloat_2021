@@ -19,6 +19,7 @@ This script is a fork of the culmination of many scripts and gists from github w
 
 ```
 Open the downloaded code, Right click "win10debloat.ps1" and choose "Run With Powershell"
+For Gamers: Goto "Gaming Focus" folder and run the win10debloatandgamingtweaks.ps1 and right click to choose "Run With Powershell"
 ```
 
 Forked From Chris Titus Tech
