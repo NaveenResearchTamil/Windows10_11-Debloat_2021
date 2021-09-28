@@ -272,7 +272,7 @@ $PictureBox1                     = New-Object system.Windows.Forms.PictureBox
 $PictureBox1.width               = 366
 $PictureBox1.height              = 130
 $PictureBox1.location            = New-Object System.Drawing.Point(554,420)
-$PictureBox1.imageLocation       = "https://github.com/NaveenResearchTamil/Windows10Debloat_2021/blob/master/naveen-toolbox.png?raw=true"
+$PictureBox1.imageLocation       = "https://github.com/NaveenResearchTamil/Windows10Debloat_2021/blob/main/naveen-toolbox.png?raw=true"
 $PictureBox1.SizeMode            = [System.Windows.Forms.PictureBoxSizeMode]::zoom
 $lightmode                       = New-Object system.Windows.Forms.Button
 $lightmode.text                  = "Light Mode"
