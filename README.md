@@ -22,7 +22,7 @@
 
 ----------------
 
-# Windows 10 Debloat 2021
+# Windows 10 & 11 Debloat 2021
 This script is a fork of the culmination of many scripts and gists from github with customizations of my own. I forked this script to be a swiss army knife of Windows tools to optimize machines and to enhance gaming [Checkout "Gaming Focus" Folder].
 
 ## Customizations
